@@ -1,4 +1,7 @@
 # Pool-Party
+I know this game doesn't say that it's in any language but it's in swift
+
+
 A game like Pool but with awesome stuff in it. This game isn't pool- It's Crazy Pool.
 
 
